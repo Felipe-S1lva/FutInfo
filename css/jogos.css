@@ -1,0 +1,87 @@
+.tit{
+    text-align: center;
+    padding: 35px;
+}
+.tit p{
+    font-weight: bold;
+    font-size: 25px;
+}
+.rodadas{
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 25px;
+}
+#just{
+    margin: 30px 0;
+    letter-spacing: 0px;
+    font-size: 30px;
+    font-weight: 400;
+    padding: 15px;
+}
+#sidebar {
+    margin-bottom: 15px;
+    width: 100%;
+    padding: 0;
+    box-shadow: 0 10px 20px -25px;
+}
+aside#sidebar h3 {
+    font-size: 16px;
+    float: left;
+    margin: 10px 0;
+    padding: 0 15px;
+    font-weight: 600;
+}
+aside#sidebar .team-btw-match ul li:first-child {
+    float: left;
+}
+aside#sidebar .team-btw-match ul li span {
+    margin: 15px;
+    color: #262626;
+    text-transform: capitalize;
+    font-weight: 600;
+    display: block;
+    font-size: 20px;
+}
+aside#sidebar .team-btw-match ul li {
+    width: 41%;
+    text-align: center;
+    float: right;
+}
+aside#sidebar .team-btw-match.style-2 ul li span {
+    color: #262626;
+}
+aside#sidebar .macth-fixture ul {
+    padding: 15px 0;
+    overflow: hidden;
+    border-bottom: 1px solid #e1e1e1;
+}
+aside#sidebar .team-btw-match ul {
+    border: solid #262626 1px;
+    padding: 40px 0;
+    display: flex;
+}   
+.feature-matchs table {
+    font-size: 13px;
+    margin: 0;
+}
+.feature-matchs td img {
+    margin: 0 5px 0 0;
+}
+.matchs-vs li.vs {
+    margin: 50px 0 0;
+}
+.feature-matchs{
+    margin: 5px;
+    height: auto;
+}
+.data{
+    color: #262626;
+    text-transform: capitalize;
+    font-weight: 600;
+    display: block;
+    font-size: 16px;
+}
+.tabela{
+    width: auto;
+    height: 45px;
+}
